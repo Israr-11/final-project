@@ -18,11 +18,7 @@ The server will automatically reload as you make changes, and any lint errors wi
 
 ## Step 3: Testing in Postman
 
-Run the interactive test runner using:
-
-npm test
-
-Refer to the running tests documentation for more information.
+Check the API endpoint in the postman for better understanding of each route
 
 
 ## `🚀 Note to Repo Visitors`
